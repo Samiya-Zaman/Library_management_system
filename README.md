@@ -1,5 +1,13 @@
 # Library Management System
 
+## Group Members
+
+| Name | Student ID |
+|-----|-----|
+| Samiya Zaman | 2311537042 |
+| Israt Jahan Rupali | 2311504042 |
+---
+
 ## Project Description
 
 The Library Management System is a software project designed to make library activities easier, faster, and more organized. In many libraries, records of books and borrowing activities are still maintained manually using notebooks, registers, or paper files. While this traditional method has been used for many years, it often causes several problems. Searching for a book may take a long time, records may be misplaced, and managing a large number of books and students becomes difficult. Our project aims to solve these issues by developing a digital system that manages library operations efficiently.
@@ -20,8 +28,67 @@ Another advantage of the system is that it reduces human error. Manual record ke
 
 The system is also designed to be simple and user-friendly. Both librarians and students should be able to use the system without difficulty. The interface will be designed so that users can easily navigate different options such as searching for books, issuing books, returning books, and viewing records. A simple design ensures that even users with limited technical knowledge can use the system effectively.
 
-From an academic perspective, this project also demonstrates important concepts of software engineering. While developing the Library Management System, we will apply several stages of the software development process. These include requirement analysis, system design, database design, implementation, and testing. The project will also involve creating diagrams such as use case diagrams, class diagrams, and sequence diagrams to represent how the system works.
-
-Working on this project will also help us understand how real-world software systems are developed. Libraries are an important part of educational institutions, and managing them efficiently is necessary for providing better services to students. By building this system, we aim to create a solution that simplifies library management while also applying the theoretical knowledge learned in the Software Engineering course.
-
 Overall, the Library Management System will help improve the efficiency of library operations. It will reduce manual work, make book searching faster, and maintain accurate records of borrowing activities. Both librarians and students will benefit from the system because it makes accessing and managing library resources much easier. Through this project, we aim to build a practical and useful application that demonstrates how software can solve everyday problems in an organized and effective way.
+
+## End Users of the System
+
+### 1. Librarian (Admin)
+
+The librarian is the main administrator of the system. They will manage books, users, and borrowing activities in the library. The librarian has full control over the system and can perform all administrative tasks.
+
+Main responsibilities of the librarian include:
+- Adding new books to the system
+- Updating book information
+- Removing books from the database
+- Registering new library members
+- Issuing books to students
+- Recording returned books
+- Monitoring overdue books and fines
+
+### 2. Students / Library Members
+
+Students or library members will use the system to search and borrow books. They will have limited access compared to the librarian but can still perform important actions.
+
+Students will be able to:
+- Search for books by title, author, or category
+- Check whether a book is available
+- Borrow books from the library
+- Return borrowed books
+- View their borrowing history
+- Check due dates and possible fines
+
+## Functional Requirements
+
+Functional requirements describe the main operations and features that the system must provide.
+
+- The system should allow users to register and log in securely.
+- The librarian should be able to add, update, and delete book records.
+- The system should allow users to search for books by title, author, or category.
+- The librarian should be able to issue books to students.
+- The system should record issue date and return date for each borrowed book.
+- The system should allow books to be returned and update the available quantity.
+- Students should be able to see the books they have borrowed.
+- The system should calculate fines for late returns.
+- The system should store all data in a database for easy management.
+
+## Non-Functional Requirements
+
+Non-functional requirements describe the quality and performance standards of the system. These requirements ensure that the system works efficiently and provides a good user experience.
+
+**Functionality**
+The system should fulfill all the main goals and requirements of the project. It should properly manage books, users, and borrowing records while performing all required library operations correctly.
+
+**Usability**
+The system should be simple, easy to understand, and flexible to use. Both librarians and students should be able to use the system without requiring advanced technical knowledge.
+
+**Efficiency**
+The system should use memory and system resources efficiently without unnecessary usage. It should also respond quickly to user actions and provide fast processing when searching for books or managing transactions.
+
+**Maintainability**
+The system should be easy to maintain and update. Developers should be able to modify the design or add new features in the future without major changes to the existing system.
+
+**Security**
+The system should protect user information and prevent unauthorized access. Only authorized users, such as the librarian, should be able to perform administrative tasks.
+
+**Reliability**
+The system should operate consistently and correctly without frequent failures. In case of a system failure, there should be proper backup mechanisms to prevent loss of important data.
