@@ -75,20 +75,26 @@ Functional requirements describe the main operations and features that the syste
 
 Non-functional requirements describe the quality and performance standards of the system. These requirements ensure that the system works efficiently and provides a good user experience.
 
-**Functionality**
+**Functionality:**
+<br>
 The system should fulfill all the main goals and requirements of the project. It should properly manage books, users, and borrowing records while performing all required library operations correctly.
 
-**Usability**
+**Usability:**
+<br>
 The system should be simple, easy to understand, and flexible to use. Both librarians and students should be able to use the system without requiring advanced technical knowledge.
 
-**Efficiency**
+**Efficiency:**
+<br>
 The system should use memory and system resources efficiently without unnecessary usage. It should also respond quickly to user actions and provide fast processing when searching for books or managing transactions.
 
-**Maintainability**
+**Maintainability:**
+<br>
 The system should be easy to maintain and update. Developers should be able to modify the design or add new features in the future without major changes to the existing system.
 
-**Security**
+**Security:**
+<br>
 The system should protect user information and prevent unauthorized access. Only authorized users, such as the librarian, should be able to perform administrative tasks.
 
-**Reliability**
+**Reliability:**
+<br>
 The system should operate consistently and correctly without frequent failures. In case of a system failure, there should be proper backup mechanisms to prevent loss of important data.
