@@ -98,3 +98,9 @@ The system should protect user information and prevent unauthorized access. Only
 **Reliability:**
 <br>
 The system should operate consistently and correctly without frequent failures. In case of a system failure, there should be proper backup mechanisms to prevent loss of important data.
+
+## System Diagrams
+
+### 1. Entity Relationship Diagram
+<img width="3413" height="3169" alt="Library Manamgerment System ERD" src="https://github.com/user-attachments/assets/2b989e21-05a1-492e-b41e-9c78c1bd8180" />
+
