@@ -4,8 +4,8 @@
 
 | Name | Student ID |
 |-----|-----|
-| Samiya Zaman | 2311537042 |
 | Israt Jahan Rupali | 2311504042 |
+| Samiya Zaman | 2311537042 |
 ---
 
 ## Project Description
@@ -45,7 +45,7 @@ Main responsibilities of the librarian include:
 - Recording returned books
 - Monitoring overdue books and fines
 
-### 2. Students / Library Members
+### 2. Members
 
 Students or library members will use the system to search and borrow books. They will have limited access compared to the librarian but can still perform important actions.
 
@@ -102,5 +102,8 @@ The system should operate consistently and correctly without frequent failures. 
 ## System Diagrams
 
 ### 1. Entity Relationship Diagram
-<img width="3413" height="3169" alt="Library Manamgerment System ERD" src="https://github.com/user-attachments/assets/2b989e21-05a1-492e-b41e-9c78c1bd8180" />
+<img width="3413" height="3169" alt="Library Manamgerment System ERD" src="https://github.com/user-attachments/assets/5bc4b374-13b5-4b5b-9fa3-925f6d7c9aac" />
+
+### 2. Use-Case Diagram
+<img width="3293" height="2925" alt="Use-Case Diagram" src="https://github.com/user-attachments/assets/5040d8f2-1130-4011-a940-f520925c31ec" />
 
