@@ -107,3 +107,5 @@ The system should operate consistently and correctly without frequent failures. 
 ### 2. Use-Case Diagram
 <img width="3293" height="2925" alt="Use-Case Diagram" src="https://github.com/user-attachments/assets/5040d8f2-1130-4011-a940-f520925c31ec" />
 
+### 3. Class Diagram
+<img width="3851" height="3182" alt="Class Diagram" src="https://github.com/user-attachments/assets/4b9bc762-275b-40ee-825f-bacfad158ffd" />
