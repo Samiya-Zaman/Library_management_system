@@ -109,3 +109,6 @@ The system should operate consistently and correctly without frequent failures. 
 
 ### 3. Class Diagram
 <img width="3851" height="3182" alt="Class Diagram" src="https://github.com/user-attachments/assets/4b9bc762-275b-40ee-825f-bacfad158ffd" />
+
+### 4. Sequence Diagram
+![Sequence Diagram](Sequence.png)
